@@ -1,0 +1,60 @@
+{
+	"syndicates": [
+		{
+			"id": 1,
+			"name": "SINDICATO DOS TRABALHADORES RURAIS DE FRUTAL E COMENDADOR GOMES",
+			"acronym": "qqq",
+			"address": {
+				"street": "Rua Minas Gerais 168, Bairro XV novembro, Frutal - MG",
+				"number": "",
+				"complement": "",
+				"city": "",
+				"state": "MG",
+				"postal_code": "",
+				"phone": ""
+			},
+			"partners": [
+				{
+					"name": "JF CITRUS AGROPECUARIA LTDA ",
+					"acronym": "STR FRUTAL",
+					"address": {
+						"street": "MINAS GERAIS,168, BAIRRO: XV DE NOVEMBRO FRUTAL-  MG",
+						"number": "",
+						"complement": "",
+						"city": "",
+						"state": "MG",
+						"postal_code": "",
+						"phone": ""
+					}
+				}
+			],
+			"affiliates": [
+				{
+					"name": "JF CITRUS AGROPECUARIA LTDA",
+					"acronym": "CAL",
+					"address": {
+						"street": "BR-153,KM 09, ZONA RURAL,COMENDADOR GOMES /MG,CEP:38.250-000.",
+						"number": "",
+						"complement": "",
+						"city": "Comendador Gomes",
+						"state": "MG",
+						"postal_code": "38250-000",
+						"phone": "(17) 3345-9800"
+					}
+				},
+				{
+					"name": "SUCOCITRICO CUTRALE LTDA - FAZENDA RIO VERDE",
+					"acronym": "",
+					"address": {
+						"street": "ROD. BR-153,KM 160,COMENDADOR GOMES/MG.",
+						"number": "",
+						"complement": "",
+						"city": "",
+						"state": "MG",
+						"postal_code": "",
+						"phone": ""
+					}
+				}
+			]
+		}
+	]}
