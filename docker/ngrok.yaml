@@ -1,0 +1,7 @@
+version: 2
+authtoken: 2Ts9zvl4aVXN6eODfyKhL9xboXN_29BUK4jHNLzXXuWHeyauZ
+tunnels:
+  app:
+    proto: http
+    addr: app:80
+    inspect: false
